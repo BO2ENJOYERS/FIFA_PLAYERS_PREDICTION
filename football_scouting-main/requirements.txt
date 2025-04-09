@@ -1,7 +1,0 @@
-openai
-groq
-sentence-transformers
-faiss-cpu
-python-dotenv
-langchain
-langchain-groq 
